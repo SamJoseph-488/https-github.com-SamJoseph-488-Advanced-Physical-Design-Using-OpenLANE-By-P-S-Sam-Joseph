@@ -256,15 +256,7 @@ A documentation shared by the instructor on how MAGIC performs DRC [Design Rule 
 ### Lab Introduction to SKY130 PDKs And Steps to Download Labs
 Now, for the lab we need to download the lab files, which can be done through this command -: _**wget http://opencircuitdesign.com/open_pdks/archive/drc_tests.tgz**_
 
-{IMAGE CREDITS: AUTHOR; SCREENSHOT TAKEN FROM DEVICE}
-
-![image](https://github.com/ojasvi-shah/Advanced-Physical-Design-Using-OpenLANE--Ojasvi-Shah/assets/163879237/c0814fc7-b71f-4410-a4e6-00983bddbe9b)
-
 Then, to extract these files, we can type _**tar xfz drc_tests.tgz**_
-
-{IMAGE CREDITS: AUTHOR; SCREENSHOT TAKEN FROM DEVICE}
-
-![image](https://github.com/ojasvi-shah/Advanced-Physical-Design-Using-OpenLANE--Ojasvi-Shah/assets/163879237/0cd7d114-5975-4882-aa0a-7410ef8cbed8)
 
 Then we will go into the directory by **_cd drc_tests_** and then list the contents through _ls -al_. Then to open the magic tool, type _**magic -d XR**_
 
