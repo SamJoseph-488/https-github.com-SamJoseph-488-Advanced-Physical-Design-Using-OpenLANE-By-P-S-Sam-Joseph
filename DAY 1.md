@@ -6,19 +6,16 @@
 A commonly and extensively used arduino circuit board can be seen in the below picture. The board has a processer or SoC i.e. System on a Chip. This is a central part of the chip and is encircled as can be seen below: 
 
 {IMAGE CREDITS - VSDIAT ; shared as part of lecture}
-
 ![Arduino Board](https://github.com/ojasvi-shah/Advanced-Physical-Design-Using-OpenLANE--Ojasvi-Shah/assets/163879237/ee3cc1ca-c4b2-4879-9310-e6b18eb70959)
 
 The encircled region, however is only a high level view, which can be represented through a block diagram, as shown below:
 
 {IMAGE CREDITS - VSDIAT ; shared as part of lecture and subsequently hand drawn by author}
-
 ![Block Diagram](https://github.com/ojasvi-shah/Advanced-Physical-Design-Using-OpenLANE--Ojasvi-Shah/assets/163879237/df9eced4-0311-45ce-b6a4-ccbd5e04bb25)
 
 In the picture, we are able to see a large box which represents, as written a SoC. In layman's terms, this often called a "CHIP". However, in technicality it is termed as a "PACKAGE". One kind of package, which is used in the arduino board is a QFN - 48 package (Quad Flat No-Leads). A package can be schematically represented as below:
 
 {IMAGE CREDITS - VSDIAT ; shared as part of lecture and subsequently hand drawn by author}
-
 ![Chip and Package](https://github.com/ojasvi-shah/Advanced-Physical-Design-Using-OpenLANE--Ojasvi-Shah/assets/163879237/230f9986-466d-4423-8526-131efee694a0)
 
 As seen, a chip is actually inside a package, and is connected to various "PINS" or inputs/outputs. The locations of the pins and what they are are usually driven by the design of the PCB. A chip is also a very complex system, and has various components such as -: 
@@ -35,18 +32,15 @@ The core also has various components, which can mainly be segregated into -:
 Two schematics encompassing all of the above components can be seen below:
 
 {IMAGE CREDITS - VSDIAT ; shared as part of lecture and subsequently hand drawn by author}
-
 ![schematic 1 - pad, core , die](https://github.com/ojasvi-shah/Advanced-Physical-Design-Using-OpenLANE--Ojasvi-Shah/assets/163879237/9568c3b3-1086-4146-b43a-9768632db86c)
 
 {IMAGE CREDITS - VSDIAT ; shared as part of lecture and subsequently hand drawn by author}
-
 ![schematic 2 - macro, foundry ip](https://github.com/ojasvi-shah/Advanced-Physical-Design-Using-OpenLANE--Ojasvi-Shah/assets/163879237/bb43afab-53f8-4697-96ce-a711ced50c59)
 
 ### Introduction to RISC V
 RISC-V Instruction Set Architechture, commonly called RISC V ISA, is the language of the computer. When a C program is to be run on a piece of hardware, it is first compiled in an assembly language program like RISC V. It is then converted to machine language i.e. binary and subsequently implemented in the form of a hardware description language such as picorv32 cpu core. A schematic is shown below, representing the same: 
 
 {IMAGE CREDITS - VSDIAT ; shared as part of lecture}
-
 ![C program to running on hardware](https://github.com/ojasvi-shah/Advanced-Physical-Design-Using-OpenLANE--Ojasvi-Shah/assets/163879237/0c10080e-99ac-42f6-8ea9-9f5b5a139c7b)
 
 
@@ -58,7 +52,6 @@ Application Software, or apps. They run on hardware such as laptops, mobile phon
 * Assemblers - Assemblers convert the instructions from the compilers into binary, and the function is implemented.
 
 {IMAGE CREDITS - VSDIAT ; shared as part of lecture}
-
 ![code to hardware](https://github.com/ojasvi-shah/Advanced-Physical-Design-Using-OpenLANE--Ojasvi-Shah/assets/163879237/5e3fb422-7ca4-4657-b805-0d314d0deec7)
 
 
@@ -77,11 +70,9 @@ However, until June of 2020, there was no OPENSOURCE available PDK data, making 
 130 nm chips are also not slow, as verified by intel and OSU-:
 
 {IMAGE CREDITS - VSDIAT ; shared as part of lecture}
-
 ![130nmslow](https://github.com/ojasvi-shah/Advanced-Physical-Design-Using-OpenLANE--Ojasvi-Shah/assets/163879237/ed434895-429d-4b8c-8cb9-5175c4f96165)
 
 {IMAGE CREDITS - VSDIAT ; shared as part of lecture}
-
 ![image](https://github.com/ojasvi-shah/Advanced-Physical-Design-Using-OpenLANE--Ojasvi-Shah/assets/163879237/5982d929-56f7-4bf3-b628-2902668be1db) 
 ### Simplified RTL to GDS flow
 The RTL to GDSII  ( Register Transfer Level to Graphic Design System II) design process takes many steps, that are -:
