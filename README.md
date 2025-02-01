@@ -1,8 +1,8 @@
-# Advanced-Physical-Design-Using-OpenLANE--Ojasvi-Shah
+# Advanced-Physical-Design-Using-OpenLANE--P S Sam Joseph
 
 Course -  [Advanced Physical Design Using OpenLANE/SKY130 offered by VSDIAT](https://vsdsquadron.vlsisystemdesign.com/digital-vlsi-soc-design-and-planning/)
 
-Author - Ojasvi Shah
+Author - P S Sam Joseph
 
 Contents -:
 * [SKY130 Day 1: Inception of OpenSource EDA, OpenLANE and SKY130 PDK](https://github.com/ojasvi-shah/Advanced-Physical-Design-Using-OpenLANE--Ojasvi-Shah/blob/main/DAY%201.md)
