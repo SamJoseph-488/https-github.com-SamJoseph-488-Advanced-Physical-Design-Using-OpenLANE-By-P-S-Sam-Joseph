@@ -79,9 +79,6 @@ After the pin placement, we create Logical Cell Placement Blockage to ensure tha
 
 1. The first step is setting the configuration variables - Before running floorplan, the configuration variables or switches must be set. These are present in **openlane/configuration**
 
-{IMAGE CREDITS: AUTHOR ; SCREENSHOT TAKEN FROM DEVICE}
-
-![image](https://github.com/ojasvi-shah/Advanced-Physical-Design-Using-OpenLANE--Ojasvi-Shah/assets/163879237/64423e9c-e562-45ee-a035-3744dc8db0a3)
 
 The _README.md_ contains all configuration variables, which are segregated based on stage and the **.tcl** files consists of the default OpenLANE settings.
 
