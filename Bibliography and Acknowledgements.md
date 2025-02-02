@@ -2,7 +2,7 @@
 
 ## Acknowledgements
 
-Firstly, I would like to express my heartfelt gratitude to Kunal Sir and Anagha Ma'am along with the entire VSDIAT team who has worked for this course to be accessible to me. 
+Firstly, I would like to express my heartfelt gratitude to Sir Kunal and Anagha Ma'am along with the entire VSDIAT team who has worked for this course to be accessible to me. 
 I would like to thank the course instructors and the teachers for teaching with such clarity in the videos.
 I would also like to thank Kunal sir for making OpenLANE and Virtual Box accessible to us for the lectures.
 
