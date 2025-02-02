@@ -11,7 +11,7 @@ _sky130_inv.mag_ located in _vsdstdcelldesign_ directory contains all informatio
 
 The ~/Desktop/work/tools/openlane_working_dir/pdks/sky130A/libs.tech/openlane/sky130_fd_sc_hd/tracks.info contains track information. Before and After changing the grid values -:
 
-{IMAGE CREDITS: AUTHOR; SCREENSHOT TAKEN FROM DEVICE}
+{IMAGE CREDITS: AUTHOR; SCREENSHOT TAKEN FROM DEVICE}:
 ![image](https://github.com/ojasvi-shah/Advanced-Physical-Design-Using-OpenLANE--Ojasvi-Shah/assets/163879237/aea3baeb-f06a-4fc1-bc49-403f5fc576dc)
 
 {IMAGE CREDITS: AUTHOR; SCREENSHOT TAKEN FROM DEVICE}
