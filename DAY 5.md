@@ -4,7 +4,7 @@
 
 Routing is to find the best possible connection [route] between two elements [clocks, flip-flops etc]. There have been many routing algorithms created like Steiner Tree algorithm, Line Search algorithm etc. and one such algorithm we will go into detail is **Maze Routing** - Lee's Algorithm (Lee 1961). 
 
-{IMAGE CREDITS: VSDIAT; SCREENSHOT TAKEN FROM LECTURE}
+{IMAGE CREDITS: VSDIAT; SCREENSHOT TAKEN FROM LECTURE}:
 
 ![image](https://github.com/ojasvi-shah/Advanced-Physical-Design-Using-OpenLANE--Ojasvi-Shah/assets/163879237/df16571e-0a37-413b-a7e6-a3646b122aee)
 
